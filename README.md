@@ -4,7 +4,11 @@ A simple PowerShell module to display the current working directory in the conso
 
 ## Installation
 
-This has yet to be published. Once it is, install using the following command: 
+This has yet to be published. Once it is, install using the following: 
+
+```powershell
+Install-Module -Name PoshDirTitle -Scope CurrentUser
+```
 
 ## Usage
 
